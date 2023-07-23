@@ -4,4 +4,3 @@ from .models import Sorvete
 
 admin.site.register(Sorvete)
 
-
